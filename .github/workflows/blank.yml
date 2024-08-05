@@ -1,4 +1,4 @@
-# This is a basic workflow to help you get started with Actions
+c16714956f0e62d637b8e02dc8ff4768143c39d1https://github.com/Danaifarm/vito2528-hotmail.com/commit/c16714956f0e62d637b8e02dc8ff4768143c39d1c16714956f0e62d637b8e02dc8ff4768143c39d1# This is a basic workflow to help you get started with Actions
 
 name: CI
 
@@ -33,4 +33,5 @@ jobs:
       - name: Run a multi-line script
         run: |
           echo Add other actions to build,
-          echo test, and deploy your project.
+          echo test, and deploy your project.ip
+
